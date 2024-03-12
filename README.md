@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anujesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm <i>Anujesh</i></h1>
+<h3 align="center">A passionate <i>Techy</i> from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anujesh-ansh&label=Profile%20views&color=0e75b6&style=flat" alt="anujesh-ansh" /> </p>
 
