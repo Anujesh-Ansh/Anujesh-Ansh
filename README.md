@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujesh-ansh" alt="anujesh-ansh" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Fridge**
+- 🔭 I’m currently working on **IntelliCam**
 
 - 🌱 I’m currently learning **IoT, Artificial Intelligence**
 
