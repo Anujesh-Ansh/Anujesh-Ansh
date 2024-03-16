@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujesh-ansh" alt="anujesh-ansh" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/Anujesh-Ansh/Github-Contribution-HeatMap" target="blank">**IntelliCam**</a>
+- 🔭 I’m currently working on <a href="https://github.com/Anujesh-Ansh/Github-Contribution-HeatMap" target="blank">**GitHub Contribution HeatMap**</a>
 
 - 🌱 I’m currently learning **IoT, Artificial Intelligence**
 
