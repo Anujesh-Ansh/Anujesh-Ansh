@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujesh-ansh&show_icons=true&locale=en" alt="anujesh-ansh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujesh-ansh&" alt="anujesh-ansh" /></p>
+
+![snake gif](https://github.com/Anujesh-Ansh/Anujesh-Ansh/blob/output/github-contribution-grid-snake.gif)
