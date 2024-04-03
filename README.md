@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/Anujesh-Ansh/Github-Contribution-HeatMap" target="blank">**GitHub Contribution HeatMap**</a>
 
-- 🌱 I’m currently learning **IoT, Artificial Intelligence, React**
+- 🌱 I’m currently learning **IoT, Artificial Intelligence, React Native**
 
 - 👯 I’m looking to collaborate on **Smart Classroom Energy Management**
 
