@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Smart Classroom Energy Management**
 
-- 🤝 I’m looking for help with **Smart Covid Mask**
+- 🤝 I’m looking for help with **Intellicam**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anujesh-Ansh](https://github.com/Anujesh-Ansh)
 
