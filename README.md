@@ -5,6 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujesh-ansh" alt="anujesh-ansh" /></a> </p>
 
+**- 🚀 My Portfolio -> [**Anujesh Ansh**](https://anujesh-ansh.github.io/Anujesh_Ansh-Portfolio/)**
+
 - 🔭 I’m currently working on <a href="https://github.com/Anujesh-Ansh/Github-Contribution-HeatMap" target="blank">**GitHub Contribution HeatMap**</a>
 
 - 🌱 I’m currently learning **IoT, Artificial Intelligence, React Native**
@@ -16,8 +18,6 @@
 - 👨‍💻 All of my projects are available at [**GitHub Handle**](https://github.com/Anujesh-Ansh)
 
 - 💬 Ask me about **Java,Kotlin,HTML,CSS,JavaScript,C++,C,Python**
-
-- 🚀 My Portfolio -> [**Anujesh Ansh**](https://anujesh-ansh.github.io/Anujesh_Ansh-Portfolio/)
 
 - 📫 How to reach me **anshanujesh@gmail.com**
 
