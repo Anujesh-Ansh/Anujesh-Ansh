@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujesh-ansh" alt="anujesh-ansh" /></a> </p>
 
-**- 🚀 My Portfolio -> [**Anujesh Ansh**](https://anujesh-ansh.github.io/Anujesh_Ansh-Portfolio/)**
+- **🚀 My Portfolio** -> [**Anujesh Ansh**](https://anujesh-ansh.github.io/Anujesh_Ansh-Portfolio/)
 
 - 🔭 I’m currently working on <a href="https://github.com/Anujesh-Ansh/Github-Contribution-HeatMap" target="blank">**GitHub Contribution HeatMap**</a>
 
