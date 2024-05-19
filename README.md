@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/Anujesh-Ansh/Github-Contribution-HeatMap" target="blank">**GitHub Contribution HeatMap**</a>
 
-- 🌱 I’m currently learning **IoT, Artificial Intelligence, React Native**
+- 🌱 I’m currently learning **IoT, Artificial Intelligence, TypeScript & React Native**
 
 - 👯 I’m looking to collaborate on **Smart Classroom Energy Management**
 
-- 🤝 I’m looking for help with **IntelliCam**
+- 🤝 I’m looking for help with **MCQ Portal**
 
 - 👨‍💻 All of my projects are available at [**GitHub Handle**](https://github.com/Anujesh-Ansh)
 
