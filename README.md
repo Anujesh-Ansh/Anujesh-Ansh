@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **IoT, Artificial Intelligence, TypeScript & React Native**
 
-- 👯 I’m looking to collaborate on **Symbi Bake**
+- 👯 I’m looking to collaborate on **SymbiBake**
 
 - 🤝 I’m looking for help with **MCQ Portal**
 
