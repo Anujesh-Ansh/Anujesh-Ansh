@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anujesh-ansh&label=Profile%20views&color=0e75b6&style=flat" alt="anujesh-ansh" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujesh-ansh" alt="anujesh-ansh" /></a> </p>
+<p align="center">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujesh-ansh" alt="anujesh-ansh" /></a> </p>
 
 - **🚀 My Portfolio** -> [**Anujesh Ansh**](https://anujesh-ansh-portfolio.netlify.app/)
 
