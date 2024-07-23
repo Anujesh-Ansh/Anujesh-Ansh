@@ -7,7 +7,7 @@
 
 - **🚀 My Portfolio** -> [**Anujesh Ansh**](https://anujesh-ansh-portfolio.netlify.app/)
 
-- 🔭 I’m currently working on <a href="https://github.com/Anujesh-Ansh/Github-Contribution-HeatMap" target="blank">****</a>
+- 🔭 I’m currently working on <a href="https://github.com/Anujesh-Ansh/Github-Contribution-HeatMap" target="blank">**LLM Model**</a>
 
 - 🌱 I’m currently learning **IoT, Artificial Intelligence, TypeScript & React Native**
 
