@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **IoT, Artificial Intelligence, TypeScript & React Native**
 
-- 👯 I’m looking to collaborate on ****
+- 👯 I’m looking to collaborate on **Rezify**
 
 - 🤝 I’m looking for help with **MCQ Portal**
 
