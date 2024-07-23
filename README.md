@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Rezify**
 
-- 🤝 I’m looking for help with **MCQ Portal**
-
 - 👨‍💻 All of my projects are available at [**GitHub Handle**](https://github.com/Anujesh-Ansh)
 
 - 💬 Ask me about **Java,Kotlin,HTML,CSS,JavaScript,C++,C,Python**
