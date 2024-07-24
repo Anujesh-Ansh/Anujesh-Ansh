@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [**GitHub Handle**](https://github.com/Anujesh-Ansh)
 
-- 💬 Ask me about **Java, Kotlin, HTML,CSS,JavaScript,C++,C,Python**
+- 💬 Ask me about **Java, Kotlin, HTML, CSS,JavaScript,C++,C,Python**
 
 - 📫 How to reach me **anshanujesh@gmail.com**
 
