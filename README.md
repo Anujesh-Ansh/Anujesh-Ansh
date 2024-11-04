@@ -37,4 +37,4 @@
 
 ![Anujesh-Ansh's Stats](https://github-readme-stats.vercel.app/api?username=Anujesh-Ansh&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![Anujesh-Ansh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anujesh-Ansh&theme=dark&hide_border=true)
+![Anujesh-Ansh's Streak][(https://github-readme-streak-stats.herokuapp.com?user=Anujesh-Ansh&theme=dark)](https://git.io/streak-stats)
