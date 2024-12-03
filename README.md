@@ -35,6 +35,4 @@
 
 ![Anujesh-Ansh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujesh-Ansh&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-![Anujesh-Ansh's Stats](https://github-readme-stats.vercel.app/api?username=Anujesh-Ansh&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anujesh-Ansh&theme=dark)](https://git.io/streak-stats)
